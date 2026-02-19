@@ -39,7 +39,7 @@ _Example response (invalid date)_:
 Status code: `400`
 ```yaml
 {
-"detail": "Invalid date format. Please use YYYY-MM-DD.",
+"detail": "Invalid date format. Please use YYYY-MM-DD."
 }
 ```
 **UML Sequence Diagram**
